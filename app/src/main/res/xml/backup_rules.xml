@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Full-backup rules (Android 11 and below).
+   The device catalogue is a regenerable local cache, so nothing is excluded
+   yet. Revisit when user-specific data (e.g. saved comparisons) is added.
+-->
+<full-backup-content />

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Data extraction rules (Android 12+). Defaults are intentionally permissive
+   for now; tighten when user-specific data is introduced.
+-->
+<data-extraction-rules>
+    <cloud-backup />
+    <device-transfer />
+</data-extraction-rules>

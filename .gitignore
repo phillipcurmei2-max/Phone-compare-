@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration (SDK location, secrets) — must never be committed
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.kotlin/
+captures/
+
+# Keystore / signing
+*.jks
+*.keystore
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

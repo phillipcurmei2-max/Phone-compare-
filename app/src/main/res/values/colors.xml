@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mirrors the Compose brand palette for platform-level surfaces
+         (window background, launcher icon). -->
+    <color name="pc_background">#0E0F13</color>
+    <color name="pc_surface">#16181D</color>
+    <color name="pc_accent">#2F88FF</color>
+    <color name="pc_accent_dim">#1C66CC</color>
+</resources>

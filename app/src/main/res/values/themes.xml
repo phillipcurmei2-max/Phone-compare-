@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Platform-level theme used by the Activity window before Compose draws.
+      It only needs to provide a dark window background (to avoid a white
+      flash on launch) and transparent system bars for edge-to-edge; the full
+      Material 3 design system is applied in Compose via PhoneCompareTheme.
+    -->
+    <style name="Theme.PhoneCompare" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/pc_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
